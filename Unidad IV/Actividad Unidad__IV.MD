@@ -17,4 +17,36 @@
 | **India** (91%)    | **Seccion 63B:** Uso a sabiendas de una copia infractora de un programa de computadora para ser un delito: Cualquier persona que a sabiendas haga uso en un computadora de una copia infractora de un software sera  sancionada con una pena de prision por un periodo que no sera inferior a siete dias. pero que puede extenderse a tres anos y con una multa que no sera inferior a cincuenta mil rupias pero puede extenderse a dos lakh de  rupias: Siempre cuando el programa del ordenador no haya sido utilizado con fines lucrativos o en el curso  de negocios o negocios, el tribunal podra, por razones adecuadas y especiales que se mencionan en la  sentencia, no imponer ninguna pena de prision y podra imponer una multa que podra extenderse a cincuenta mil  rupias.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            |
 | **Rusia** (95%)    | La federacion Rusa ha aprobado un decreto que elimina las compensaciones a sus ciudadanos y empresas por el  uso de patentes de los estados incluidos en su lista de "paises hostiles". En la practica, esto quiere decir  que los ciudadanos y empresas rusas podran explotar patentes que no sean suyas sin riesgo de ser sancionados, segun ha explicado al ARA fuentes del sector. El decreto del gobierno de Vladimir Putin no elimina el  reconocimiento de las patentes, sino que establece que la compensacion a su propietario sera cero.   **Lista de paises hostiles de Rusia** -Union Europea. -Estados Unidos. -Japon. -Corea del sur. -Singapur. -Taiwan.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             |
 
+####  NOTAS PERIODISTICAS:  ###
 
+##### China: ####
+-https://elpais.com/internacional/2017/05/31/actualidad/1496241283_691973.html 
+
+-https://www.marval.com/publicacion/china-aprueba-una-nueva-ley-de-proteccion-de-datos-personales-14081#:~:text=El%2020%20de%20agosto%20de,1%20de%20noviembre%20de%202021.
+
+-https://mercado.com.ar/tecnologia/en-china-abunda-el-software-ilegal/
+
+#### Mexico ####
+
+-https://revistageon.unillanos.edu.co/index.php/geon/article/view/87/165
+
+-https://www.wipo.int/news/es/wipolex/2020/article_0019.html
+
+
+#### Alemania #### 
+
+-https://cso.computerworld.es/empresas/alemania-advierte-de-las-posibilidades-de-pirateria-en-el-software-de-kaspersky 
+
+-https://www.deutschland.de/es/topic/economia/patentes-que-tan-innovadora-es-alemania
+
+-https://www.elespanol.com/invertia/disruptores-innovadores/politica-digital/europa/20210117/alemania-plantea-regular-monopolios-digitales/551445847_0.html?fbclid=IwAR0qYxai_d5-B57mRKIi1uTcHJWrqM8log0MfTIJLCPV8R40IR8JZ307ndY
+
+-https://www.wipo.int/news/es/wipolex/2013/article_0021.html
+
+#### India ####
+
+-https://microsofters.com/150199/microsoft-demuestra-91-de-pcs-india-software-pirata/amp/
+
+#### Rusia ####
+
+-https://pressover.news/noticias/loop-hero-pirateando-para-rusia/ 
