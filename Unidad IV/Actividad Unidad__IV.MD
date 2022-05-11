@@ -19,7 +19,7 @@
 
 ####  NOTAS PERIODISTICAS:  ###
 
-##### China: ####
+#### China: ####
 -https://elpais.com/internacional/2017/05/31/actualidad/1496241283_691973.html 
 
 -https://www.marval.com/publicacion/china-aprueba-una-nueva-ley-de-proteccion-de-datos-personales-14081#:~:text=El%2020%20de%20agosto%20de,1%20de%20noviembre%20de%202021.
