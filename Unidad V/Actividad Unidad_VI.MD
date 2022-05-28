@@ -19,7 +19,7 @@
 
 #### Referencias: ###
 
-http://contratosinformaticos.com/modelos/contrato-de-compraventa-de-hardware/
--https://sites.google.com/site/programadepreincubacion/bloque-ii-plan-de-actividades/20-06-ejemplos-de-modelos-de-contratos-tic-para-pymes-y-autonomos/1-modelo-de-contrato-de-arrendamiento-de-equipos
--https://hablemosdeempresas.com/pymes/leasing-que-es-tipos/
--https://www.hexagonmi.com/es-mx/service-and-support/maintenance-contracts/hardware-maintenance-contracts
+- http://contratosinformaticos.com/modelos/contrato-de-compraventa-de-hardware/
+- https://sites.google.com/site/programadepreincubacion/bloque-ii-plan-de-actividades/20-06-ejemplos-de-modelos-de-contratos-tic-para-pymes-y-autonomos/1-modelo-de-contrato-de-arrendamiento-de-equipos
+- https://hablemosdeempresas.com/pymes/leasing-que-es-tipos/
+- https://www.hexagonmi.com/es-mx/service-and-support/maintenance-contracts/hardware-maintenance-contracts
