@@ -3,12 +3,12 @@
 #  Taller de legislacion Informatica  #
 ##  Unidad VI  ##
 ##  Actividad: INVESTIGACIÓN DE UN CASO DE DELITO INFORMÁTICO  ##
-###  Integrantes del Equipo 6  ###
+##  Integrantes del Equipo 6  ###
 - TEÍSTA GARCÍA CARLO FERNANDO                                              20212558
 - TRIANA CORVERA JESÚS ANTONIO                                              C20212681 
 
 
-## CASO FALLCHILL 
+### CASO FALLCHILL 
 
 <div class=text-justify>
 
