@@ -8,17 +8,22 @@
 - TRIANA CORVERA JESÚS ANTONIO                                              C20212681 
 
 #### INVESTIGACIÓN DE UN CASO DE DELITO INFORMÁTICO ####
-#### CASO FALLCHILL####
-##### Es un malware que fue detectado en varios equipos de una empresa de
+#### CASO FALLCHILL
+
+Es un malware que fue detectado en varios equipos de una empresa de
 telecomunicaciones en la Ciudad de México. Entre sus capacidades están las
 siguientes:
 
 ● Extraer información de los discos duros de las computadoras donde se alojaba.
+
 ● Iniciar y terminar procesos.
+
 ● Intervenir cualquier archivo para modificarlo, ejecutarlo, moverlo o incluso
 eliminar elementos del sistema.
+
 ● Por último, es capaz de borrarse a sí mismo, y así evitar dejar rastros de su
 presencia, lo que dificulta su detección en las redes vulnerables.
+
 
 El software fue encontrado por la Procuraduría General de Justicia y el FBI en
 oficinas en Ciudad de México. Como parte del protocolo para la eliminación del
@@ -46,7 +51,7 @@ principalmente de India, Irán y Pakistán.
 De acuerdo información de inteligencia estadounidense, FALLCHILL es desplegado
 por la fuerza militar informática de Corea del Norte, conocida como Hidden Cobra, o
 Lazarus Group; quienes podrían estar detrás también del hackeo masivo a Sony del
-2014 y hasta del ransomware Wannacry. #####
+2014 y hasta del ransomware Wannacry. 
 
 #### Referencias: ###
 - https://www.xataka.com.mx/otros-1/lo-que-tienes-que-saber-del-virus-norcoreano-que-llego-a-mexico-y-fue-eliminado-por-la-pgr-y-el-fbi
