@@ -1,14 +1,14 @@
 [![logotec.png](https://i.postimg.cc/N0t65Qdc/logotec.png)](https://postimg.cc/PC6p7nG3)
 
-# ** Taller de legislacion Informatica ** #
-## ** Unidad V ** ##
-## ** Actividad: CUADRO COMPARATIVO U5 ** ##
-### ** Integrantes del Equipo 6 ** ###
+#  Taller de legislacion Informatica  #
+##  Unidad V  ##
+##  Actividad: CUADRO COMPARATIVO U5  ##
+###  Integrantes del Equipo 6  ###
 - TEÍSTA GARCÍA CARLO FERNANDO                                              20212558
 - TRIANA CORVERA JESÚS ANTONIO                                              C20212681 
 
-#### ** INVESTIGACIÓN DE UN CASO DE DELITO INFORMÁTICO ** ####
-#### **CASO FALLCHILL **
+####  INVESTIGACIÓN DE UN CASO DE DELITO INFORMÁTICO  ####
+#### CASO FALLCHILL 
 
 Es un malware que fue detectado en varios equipos de una empresa de
 telecomunicaciones en la Ciudad de México. Entre sus capacidades están las
