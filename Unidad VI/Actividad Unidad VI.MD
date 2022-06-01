@@ -12,13 +12,13 @@
 Es un malware que fue detectado en varios equipos de una empresa de telecomunicaciones en la Ciudad de México. Entre sus capacidades están las siguientes:
 
 
--Extraer información de los discos duros de las computadoras donde se alojaba. 
+- Extraer información de los discos duros de las computadoras donde se alojaba. 
 
--Iniciar y terminar procesos.
+- Iniciar y terminar procesos.
 
--Intervenir cualquier archivo para modificarlo, ejecutarlo, moverlo o incluso             eliminar elementos del sistema.
+- Intervenir cualquier archivo para modificarlo, ejecutarlo, moverlo o incluso             eliminar elementos del sistema.
 
--Por último, es capaz de borrarse a sí mismo, y así evitar dejar rastros de su presencia, lo que dificulta su detección en las redes vulnerables.
+- Por último, es capaz de borrarse a sí mismo, y así evitar dejar rastros de su presencia, lo que dificulta su detección en las redes vulnerables.
 
 
 
