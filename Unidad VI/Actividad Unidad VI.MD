@@ -1,14 +1,16 @@
 [![logotec.png](https://i.postimg.cc/N0t65Qdc/logotec.png)](https://postimg.cc/PC6p7nG3)
 
-#  Taller de legislacion Informatica  #
-##  Unidad V  ##
-##  Actividad: CUADRO COMPARATIVO U5  ##
-###  Integrantes del Equipo 6  ###
+#  __ Taller de legislacion Informatica __ #
+##  __ Unidad VI __ ##
+## __ Actividad: CUADRO COMPARATIVO U5 __ ##
+### __ Integrantes del Equipo 6 __ ###
 - TEÍSTA GARCÍA CARLO FERNANDO                                              20212558
 - TRIANA CORVERA JESÚS ANTONIO                                              C20212681 
 
-####  INVESTIGACIÓN DE UN CASO DE DELITO INFORMÁTICO  ####
-#### CASO FALLCHILL 
+####  __ INVESTIGACIÓN DE UN CASO DE DELITO INFORMÁTICO __  ####
+#### __ CASO FALLCHILL __
+
+<div class=text-justify>
 
 Es un malware que fue detectado en varios equipos de una empresa de
 telecomunicaciones en la Ciudad de México. Entre sus capacidades están las
@@ -55,3 +57,5 @@ Lazarus Group; quienes podrían estar detrás también del hackeo masivo a Sony 
 - https://www.xataka.com.mx/otros-1/lo-que-tienes-que-saber-del-virus-norcoreano-que-llego-a-mexico-y-fue-eliminado-por-la-pgr-y-el-fbi
 - https://akubica.com/detectan-en-mexico-virus-norcoreano-llamado-fallchill/
 - https://blog.orcagrc.com/casos-de-delitos-informaticos-en-mexico
+
+<div>
