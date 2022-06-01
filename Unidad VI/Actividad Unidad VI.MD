@@ -1,14 +1,14 @@
 [![logotec.png](https://i.postimg.cc/N0t65Qdc/logotec.png)](https://postimg.cc/PC6p7nG3)
 
-#  __ Taller de legislacion Informatica __ #
-##  __ Unidad VI __ ##
-## __ Actividad: CUADRO COMPARATIVO U5 __ ##
-### __ Integrantes del Equipo 6 __ ###
+#  Taller de legislacion Informatica  #
+##  Unidad VI  ##
+##  Actividad: CUADRO COMPARATIVO U5  ##
+###  Integrantes del Equipo 6  ###
 - TEÍSTA GARCÍA CARLO FERNANDO                                              20212558
 - TRIANA CORVERA JESÚS ANTONIO                                              C20212681 
 
-####  __ INVESTIGACIÓN DE UN CASO DE DELITO INFORMÁTICO __  ####
-#### __ CASO FALLCHILL __
+####  INVESTIGACIÓN DE UN CASO DE DELITO INFORMÁTICO  ####
+#### CASO FALLCHILL 
 
 <div class=text-justify>
 
