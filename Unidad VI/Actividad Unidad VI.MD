@@ -13,9 +13,13 @@ Es un malware que fue detectado en varios equipos de una empresa de telecomunica
 
 
 -Extraer información de los discos duros de las computadoras donde se alojaba. 
+
 -Iniciar y terminar procesos.
+
 -Intervenir cualquier archivo para modificarlo, ejecutarlo, moverlo o incluso             eliminar elementos del sistema.
+
 -Por último, es capaz de borrarse a sí mismo, y así evitar dejar rastros de su presencia, lo que dificulta su detección en las redes vulnerables.
+
 
 
 Usualmente FALLCHILL llega a los equipos encubiertos por otros malwares, de manera que es descargado sin que el usuario lo note. Una vez en la máquina, establece comunicación con un servidor de control y utiliza un protocolo de cifrado personalizado, como si se tratase de paquetes TLS/SSL.
@@ -27,7 +31,8 @@ En noviembre pasado el departamento de Homeland Security en Estados Unidos, junt
 De acuerdo información de inteligencia estadounidense, FALLCHILL es desplegado por la fuerza militar informática de Corea del Norte, conocida como Hidden Cobra, o Lazarus Group; quienes podrían estar detrás también del hackeo masivo a Sony del 2014 y hasta del ransomware Wannacry.
 
 
-PGR y FBI descubren malware norcoreano en equipos de empresa en México
+#### PGR y FBI descubren malware norcoreano en equipos de empresa en México
+
 La Procuraduría General de la República (PGR) en colaboración con el FBI identificaron y erradicaron un software malicioso de origen norcoreano conocido como Fallchill dentro de la infraestructura del ciberespacio mexicano, de acuerdo con un comunicado de las autoridades mexicanas.
 
 A través de la Agencia de Investigación Criminal, la PGR descubrió que el malware se encontraba alojado en la red de una empresa privada de telecomunicaciones radicada en la Ciudad de México.
@@ -48,12 +53,18 @@ De acuerdo con la alerta publicada por el Equipo de Respuesta a Emergencias Info
 
 Con la obtención de esta información, los habilitadores del malware son capaces de llevar a cabo las siguientes acciones en los equipos infectados por Fallchill:
 
--Obtener información sobre todos los discos instalados, incluido el tipo de disco y la cantidad de espacio libre en el disco;
--Crear, iniciar y terminar un nuevo proceso y su hilo principal;
--Buscar, leer, escribir, mover y ejecutar archivos;
--Obtener y modificar las marcas de tiempo del archivo o directorio;
--Cambiar el directorio actual para un proceso o archivo;
--Eliminar malware y artefactos asociados con el malware del sistema infectado.
+- Obtener información sobre todos los discos instalados, incluido el tipo de disco y la cantidad de espacio libre en el disco.
+
+- Crear, iniciar y terminar un nuevo proceso y su hilo principal.
+
+- Buscar, leer, escribir, mover y ejecutar archivos.
+
+- Obtener y modificar las marcas de tiempo del archivo o directorio.
+
+- Cambiar el directorio actual para un proceso o archivo.
+
+- Eliminar malware y artefactos asociados con el malware del sistema infectado.
+
  
 El gobierno de Estados Unidos conoce como Hidden Cobra a las actividades cibernéticas maliciosas realizadas por el gobierno de Corea del Norte. “El FBI tiene gran confianza en que los actores de Hidden Cobra están usando las direcciones IP (...) para mantener una presencia en las redes de las víctimas y para una mayor explotación de la red”, refiere la alerta del (CERT) de Estados Unidos.
 
