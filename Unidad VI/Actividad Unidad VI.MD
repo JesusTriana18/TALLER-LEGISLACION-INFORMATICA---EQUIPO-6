@@ -7,8 +7,8 @@
 - TEÍSTA GARCÍA CARLO FERNANDO                                              20212558
 - TRIANA CORVERA JESÚS ANTONIO                                              C20212681 
 
-#### INVESTIGACIÓN DE UN CASO DE DELITO INFORMÁTICO ####
-#### CASO FALLCHILL
+#### ** INVESTIGACIÓN DE UN CASO DE DELITO INFORMÁTICO ** ####
+#### **CASO FALLCHILL **
 
 Es un malware que fue detectado en varios equipos de una empresa de
 telecomunicaciones en la Ciudad de México. Entre sus capacidades están las
@@ -46,9 +46,7 @@ permitiendo a hackers monitorear y controlar los equipos. En aquella ocasión se
 1
 
 identificaron direcciones IP posiblemente asociadas con el virus, las cuales provenían
-principalmente de India, Irán y Pakistán.
-
-De acuerdo información de inteligencia estadounidense, FALLCHILL es desplegado
+principalmente de India, Irán y Pakistán. De acuerdo información de inteligencia estadounidense, FALLCHILL es desplegado
 por la fuerza militar informática de Corea del Norte, conocida como Hidden Cobra, o
 Lazarus Group; quienes podrían estar detrás también del hackeo masivo a Sony del
 2014 y hasta del ransomware Wannacry. 
